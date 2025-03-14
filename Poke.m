@@ -8,7 +8,7 @@ while 1
     Num = rand(1, 54);
     % 对随机数排序并获取索引
     [~, Indices] = sort(Num);
-    idx = Indices(1:k);
+    idx = Indices(1:17);
     %生成随机排列
     %idx = randperm(54,17);
     p = poke(idx);
