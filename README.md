@@ -1,4 +1,4 @@
-# MATLAB-Lesson-2025
+# MATLAB-Lecture-2025
 Classroom-written MATLAB program demo
 
 This repository contains MATLAB program demos from the course lectures.
